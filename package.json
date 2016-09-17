@@ -4,7 +4,7 @@
   "description": "Comparison of graph engines",
   "main": "index.html",
   "scripts": {
-    "lint": "./node_modules/.bin/standard ./*.js ./**/*.js"
+    "lint": "standard ./*.js ./**/*.js"
   },
   "repository": {
     "type": "git",
