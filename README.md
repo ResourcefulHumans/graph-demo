@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/ResourcefulHumans/graph-demo.svg?branch=master)](https://travis-ci.org/ResourcefulHumans/graph-demo)
 [![monitored by greenkeeper.io](https://img.shields.io/badge/greenkeeper.io-monitored-brightgreen.svg)](http://greenkeeper.io/) 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/d135b2d6ee4c4dc98e7c7759f2d6c1e9)](https://www.codacy.com/app/m_7/graph-demo)
+[![Code Climate](https://codeclimate.com/github/ResourcefulHumans/graph-demo/badges/gpa.svg)](https://codeclimate.com/github/ResourcefulHumans/graph-demo)
 
 ## Live preview
 
